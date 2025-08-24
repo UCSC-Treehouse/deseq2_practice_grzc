@@ -1,1 +1,1 @@
-# deseq2_practice_grzc
+# DESeq2 practice repo
